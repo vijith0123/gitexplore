@@ -1,0 +1,5 @@
+#This is a comment
+
+*.js
+*.aspx
+!Anjitha.js
