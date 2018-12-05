@@ -2,4 +2,4 @@ One function - Ihave added a very imp function here.
 
 I am adding nav in the file
 
-I am adding footer in the file.
+I am adding footer in the file. modified
