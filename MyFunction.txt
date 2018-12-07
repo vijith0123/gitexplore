@@ -9,3 +9,6 @@ Added a chart funtion in class.
 
 Added a function for checking the stashing in git
 
+
+
+test
