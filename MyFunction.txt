@@ -5,3 +5,7 @@ Third function added
 Method for logout
 
 
+Added a chart funtion in class.
+
+Added a function for checking the stashing in git
+
