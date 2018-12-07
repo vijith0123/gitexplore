@@ -1,12 +1,5 @@
-One function - Ihave added a very imp function here.
-<<<<<<< HEAD
-Two function - Ihave added a very imp function here.
-Thre  function - Ihave added a very imp function here.
+One function added
+Second function added
+Third function added
 
-Added a chart funtion in class.
-=======
-
-I am adding nav in the file
-
-I am adding footer in the file. modified
->>>>>>> new_footer
+Method for logout
