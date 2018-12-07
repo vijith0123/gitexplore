@@ -1,5 +1,7 @@
-One function added
+One important function added
 Second function added
 Third function added
 
 Method for logout
+
+
